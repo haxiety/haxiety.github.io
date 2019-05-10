@@ -1,5 +1,5 @@
 title: lib1ove
 
 
-permalink: /:title
+permalink: /:categories/:title
 theme: jekyll-theme-slate
